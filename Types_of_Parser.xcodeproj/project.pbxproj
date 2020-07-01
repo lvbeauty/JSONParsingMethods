@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		24DB2BA224722DC80012A971 /* Tong_Types_of_Parser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tong_Types_of_Parser.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		24DB2BA224722DC80012A971 /* Types_of_Parser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Types_of_Parser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24DB2BA524722DC80012A971 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24DB2BA724722DC80012A971 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		24DB2BAC24722DC80012A971 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		24DB2B9924722DC80012A971 = {
 			isa = PBXGroup;
 			children = (
-				24DB2BA424722DC80012A971 /* Tong_Types_of_Parser */,
+				24DB2BA424722DC80012A971 /* Types_of_Parser */,
 				24DB2BA324722DC80012A971 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		24DB2BA324722DC80012A971 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				24DB2BA224722DC80012A971 /* Tong_Types_of_Parser.app */,
+				24DB2BA224722DC80012A971 /* Types_of_Parser.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		24DB2BA424722DC80012A971 /* Tong_Types_of_Parser */ = {
+		24DB2BA424722DC80012A971 /* Types_of_Parser */ = {
 			isa = PBXGroup;
 			children = (
 				24DB2BB924722DFB0012A971 /* Common */,
@@ -66,7 +66,7 @@
 				24DB2BBC24722E340012A971 /* Controller */,
 				24DB2BBE24722E510012A971 /* SupportFile */,
 			);
-			path = Tong_Types_of_Parser;
+			path = Types_of_Parser;
 			sourceTree = "<group>";
 		};
 		24DB2BB924722DFB0012A971 /* Common */ = {
@@ -116,9 +116,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		24DB2BA124722DC80012A971 /* Tong_Types_of_Parser */ = {
+		24DB2BA124722DC80012A971 /* Types_of_Parser */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 24DB2BB624722DD20012A971 /* Build configuration list for PBXNativeTarget "Tong_Types_of_Parser" */;
+			buildConfigurationList = 24DB2BB624722DD20012A971 /* Build configuration list for PBXNativeTarget "Types_of_Parser" */;
 			buildPhases = (
 				24DB2B9E24722DC80012A971 /* Sources */,
 				24DB2B9F24722DC80012A971 /* Frameworks */,
@@ -128,9 +128,9 @@
 			);
 			dependencies = (
 			);
-			name = Tong_Types_of_Parser;
+			name = Types_of_Parser;
 			productName = Tong_Types_of_Parser;
-			productReference = 24DB2BA224722DC80012A971 /* Tong_Types_of_Parser.app */;
+			productReference = 24DB2BA224722DC80012A971 /* Types_of_Parser.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -148,7 +148,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 24DB2B9D24722DC80012A971 /* Build configuration list for PBXProject "Tong_Types_of_Parser" */;
+			buildConfigurationList = 24DB2B9D24722DC80012A971 /* Build configuration list for PBXProject "Types_of_Parser" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -161,7 +161,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				24DB2BA124722DC80012A971 /* Tong_Types_of_Parser */,
+				24DB2BA124722DC80012A971 /* Types_of_Parser */,
 			);
 		};
 /* End PBXProject section */
@@ -333,12 +333,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tong_Types_of_Parser/SupportFile/Info.plist;
+				INFOPLIST_FILE = Types_of_Parser/SupportFile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Tong.storyBoard.Tong-Types-of-Parser";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Tong.storyBoard.Types-of-Parser";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -350,12 +350,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tong_Types_of_Parser/SupportFile/Info.plist;
+				INFOPLIST_FILE = Types_of_Parser/SupportFile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Tong.storyBoard.Tong-Types-of-Parser";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Tong.storyBoard.Types-of-Parser";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -365,7 +365,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		24DB2B9D24722DC80012A971 /* Build configuration list for PBXProject "Tong_Types_of_Parser" */ = {
+		24DB2B9D24722DC80012A971 /* Build configuration list for PBXProject "Types_of_Parser" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				24DB2BB424722DD20012A971 /* Debug */,
@@ -374,7 +374,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		24DB2BB624722DD20012A971 /* Build configuration list for PBXNativeTarget "Tong_Types_of_Parser" */ = {
+		24DB2BB624722DD20012A971 /* Build configuration list for PBXNativeTarget "Types_of_Parser" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				24DB2BB724722DD20012A971 /* Debug */,
